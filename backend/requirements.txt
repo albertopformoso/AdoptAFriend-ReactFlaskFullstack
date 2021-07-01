@@ -1,0 +1,11 @@
+pymongo
+flask
+Flask-Bcrypt
+Flask-PyMongo
+flask-restful
+flask-jwt
+flask-cors
+python-dotenv
+gunicorn
+dnspython
+requests
